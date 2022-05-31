@@ -1,0 +1,140 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-26,JP Morgan,Neutral,,main
+2012-11-29,Imperial Capital,Buy,,init
+2012-11-29,Imperial Capital,,,init
+2012-12-27,Wedbush,Neutral,,main
+2013-01-07,FBR Capital,Market Perform,Outperform,down
+2013-02-21,Imperial Capital,In-Line,Outperform,down
+2015-04-21,UBS,Neutral,Buy,down
+2015-05-04,Evercore ISI Group,Hold,Sell,up
+2015-05-05,Janney Capital,Buy,,init
+2015-07-07,Wells Fargo,Outperform,Market Perform,up
+2015-08-07,Mizuho,Neutral,,init
+2015-12-01,Citigroup,Neutral,,init
+2016-01-04,Barclays,Overweight,,main
+2016-02-08,Macquarie,Neutral,Outperform,down
+2016-02-08,Barclays,Equal-Weight,Overweight,down
+2016-03-31,Janney Capital,Neutral,Buy,down
+2016-07-07,Barclays,Equal-Weight,,main
+2016-07-20,Citigroup,Neutral,,main
+2016-08-01,Janney Capital,Buy,Neutral,up
+2016-10-04,Citigroup,Neutral,,main
+2016-10-04,Barclays,Equal-weight,,main
+2016-10-12,Argus,Buy,,main
+2016-12-20,Deutsche Bank,Buy,Hold,up
+2017-01-25,Credit Suisse,Neutral,,init
+2017-07-10,Morgan Stanley,Equal-Weight,,main
+2017-08-10,Morgan Stanley,Equal-Weight,,main
+2017-10-02,Credit Suisse,Neutral,,main
+2017-10-24,Morgan Stanley,Equal-Weight,,main
+2017-11-13,Morgan Stanley,Equal-Weight,,main
+2017-12-13,Morgan Stanley,Overweight,Equal-Weight,up
+2018-01-23,Credit Suisse,Underperform,Neutral,down
+2018-02-02,Bank of America,Underperform,Underperform,main
+2018-02-02,Janney Capital,Neutral,Buy,down
+2018-02-02,Morgan Stanley,Overweight,Overweight,main
+2018-02-02,UBS,Neutral,,init
+2018-02-13,Morgan Stanley,Equal-Weight,Overweight,down
+2018-02-26,Wells Fargo,Outperform,Outperform,main
+2018-03-08,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-04-02,UBS,Buy,Neutral,up
+2018-04-16,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-05-01,Citigroup,Neutral,Sell,up
+2018-05-04,Credit Suisse,Underperform,Underperform,main
+2018-05-24,Credit Suisse,Underperform,Underperform,main
+2018-06-13,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-06-22,Janney Capital,Buy,Neutral,up
+2018-07-16,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-08-03,Bank of America,Neutral,Underperform,up
+2018-09-11,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-09-17,Wells Fargo,Outperform,Outperform,main
+2018-09-21,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-09-25,Citigroup,Neutral,Neutral,main
+2018-10-11,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-11-19,Barclays,Equal-Weight,Equal-Weight,main
+2018-12-04,Credit Suisse,Outperform,Neutral,up
+2019-01-31,Goldman Sachs,Buy,Neutral,up
+2019-02-12,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-02-22,Evercore ISI Group,In-Line,Outperform,down
+2019-02-22,Guggenheim,Neutral,Buy,down
+2019-02-25,Bank of America,Underperform,Neutral,down
+2019-03-04,Macquarie,Outperform,Neutral,up
+2019-06-05,KeyBanc,Overweight,,init
+2019-06-07,UBS,Buy,,main
+2019-06-14,Morgan Stanley,Equal-Weight,,main
+2019-06-18,Barclays,Equal-Weight,,main
+2019-07-30,Wells Fargo,Outperform,,main
+2019-08-16,Morgan Stanley,Equal-Weight,,main
+2019-09-04,Guggenheim,Buy,Neutral,up
+2019-09-06,UBS,Buy,,main
+2019-09-25,Morgan Stanley,Equal-Weight,,main
+2019-10-09,KeyBanc,Overweight,,main
+2019-10-17,Morgan Stanley,Equal-Weight,,main
+2019-10-21,KeyBanc,Overweight,,main
+2019-10-29,UBS,Neutral,Buy,down
+2019-11-25,UBS,Neutral,,main
+2019-12-11,JP Morgan,Neutral,,init
+2020-01-16,Citigroup,Neutral,,main
+2020-01-16,Goldman Sachs,Neutral,Buy,down
+2020-01-17,KeyBanc,Overweight,,main
+2020-01-22,Janney Capital,Neutral,Buy,down
+2020-02-14,Morgan Stanley,Equal-Weight,,main
+2020-02-20,BMO Capital,Outperform,,init
+2020-02-21,UBS,Neutral,,main
+2020-02-21,Wells Fargo,Overweight,,main
+2020-02-21,KeyBanc,Overweight,,main
+2020-03-10,Morgan Stanley,Underweight,Equal-Weight,down
+2020-03-16,UBS,Neutral,,main
+2020-03-26,Barclays,Equal-Weight,,main
+2020-04-15,Morgan Stanley,Underweight,,main
+2020-04-20,Evercore ISI Group,In-Line,Underperform,up
+2020-05-12,Janney Capital,Buy,Neutral,up
+2020-05-15,Morgan Stanley,Underweight,,main
+2020-05-20,Seaport Global,Buy,,init
+2020-05-22,Barclays,Equal-Weight,,main
+2020-06-05,UBS,Neutral,,main
+2020-06-17,Morgan Stanley,Underweight,,main
+2020-07-21,Credit Suisse,Underperform,Neutral,down
+2020-07-21,KeyBanc,Overweight,,main
+2020-08-24,Guggenheim,Neutral,Buy,down
+2020-09-18,Morgan Stanley,Underweight,,main
+2020-10-05,Morgan Stanley,Underweight,,main
+2020-10-19,KeyBanc,Overweight,,main
+2020-10-20,Morgan Stanley,Underweight,,main
+2020-11-03,Credit Suisse,Underperform,,main
+2020-11-17,Morgan Stanley,Underweight,,main
+2020-12-15,Morgan Stanley,Underweight,,main
+2021-01-12,KeyBanc,Overweight,,main
+2021-01-15,Credit Suisse,Underperform,,main
+2021-01-20,Morgan Stanley,Underweight,,main
+2021-01-22,Morgan Stanley,Underweight,,main
+2021-02-18,Wells Fargo,Overweight,,main
+2021-02-18,Morgan Stanley,Underweight,,main
+2021-03-19,Morgan Stanley,Underweight,,main
+2021-04-09,Mizuho,Neutral,,init
+2021-04-20,Credit Suisse,Underperform,,main
+2021-04-20,Morgan Stanley,Underweight,,main
+2021-04-21,Keybanc,Sector Weight,Overweight,down
+2021-04-30,Scotiabank,Sector Perform,Sector Underperform,up
+2021-05-11,Credit Suisse,Underperform,,main
+2021-05-25,Barclays,Equal-Weight,,main
+2021-06-21,Morgan Stanley,Underweight,,main
+2021-07-21,Morgan Stanley,Underweight,,main
+2021-08-19,Morgan Stanley,Underweight,,main
+2021-09-09,Mizuho,Underperform,Neutral,down
+2021-09-16,Mizuho,Underperform,,main
+2021-10-04,Wells Fargo,Overweight,,main
+2021-10-19,Morgan Stanley,Equal-Weight,Underweight,up
+2021-10-28,Mizuho,Neutral,Underperform,up
+2021-11-22,Morgan Stanley,Equal-Weight,,main
+2021-12-21,Morgan Stanley,Equal-Weight,,main
+2022-01-10,BMO Capital,Market Perform,Outperform,down
+2022-01-21,Morgan Stanley,Equal-Weight,,main
+2022-02-18,Morgan Stanley,Equal-Weight,,main
+2022-02-22,Wells Fargo,Overweight,,main
+2022-02-23,B of A Securities,Underperform,Neutral,down
+2022-03-09,Wolfe Research,Peer Perform,Outperform,down
+2022-03-22,Morgan Stanley,Equal-Weight,,main
+2022-04-20,Morgan Stanley,Equal-Weight,,main
+2022-05-05,Wells Fargo,Overweight,,main
+2022-05-06,Credit Suisse,Neutral,,main

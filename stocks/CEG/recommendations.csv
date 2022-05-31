@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action
+2022-02-03,Edward Jones,Sell,,init
+2022-02-03,Guggenheim,Neutral,,init
+2022-02-03,Vertical Research,Buy,,init
+2022-02-03,Wells Fargo,Overweight,,init
+2022-02-08,Seaport Global,Buy,,init
+2022-02-09,Keybanc,Overweight,,init
+2022-02-10,Barclays,Overweight,,init
+2022-02-18,UBS,Neutral,,init
+2022-03-01,Mizuho,Neutral,,init
+2022-03-14,Goldman Sachs,Buy,,init
+2022-03-15,Keybanc,Overweight,,main
+2022-03-16,Morgan Stanley,Overweight,,init
+2022-03-25,Barclays,Overweight,,main
+2022-04-04,Goldman Sachs,Buy,,main
+2022-04-07,Keybanc,Overweight,,main
+2022-04-12,Wells Fargo,Overweight,,main
+2022-04-20,Keybanc,Overweight,,main
+2022-04-29,RBC Capital,Outperform,,init
+2022-05-13,Wells Fargo,Overweight,,main
+2022-05-13,Guggenheim,Buy,Neutral,up

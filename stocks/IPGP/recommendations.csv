@@ -1,0 +1,66 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-10,Dougherty,Buy,,main
+2012-09-04,PiperJaffray,Overweight,,main
+2013-01-04,Stifel Nicolaus,Hold,Buy,down
+2013-01-07,Barclays,Equal-Weight,,main
+2013-09-05,Noble Financial,Buy,Hold,up
+2013-12-13,DA Davidson,Buy,,main
+2014-10-29,DA Davidson,Buy,,main
+2015-01-05,Stifel Nicolaus,Buy,,main
+2015-03-23,Stifel Nicolaus,Hold,Buy,down
+2015-03-23,Stifel Nicolaus,Hold,Buy,down
+2015-04-29,Needham,Buy,,main
+2015-06-02,Benchmark,Buy,,init
+2015-09-15,Canaccord Genuity,Hold,,init
+2015-09-21,DA Davidson,Buy,,init
+2015-11-11,FBR Capital,Outperform,,init
+2015-12-10,Oppenheimer,Perform,,init
+2016-04-15,Raymond James,Market Perform,,init
+2016-04-28,Dougherty,Neutral,Buy,down
+2016-04-29,CLSA,Outperform,Buy,down
+2016-05-11,FBR Capital,Market Perform,,init
+2016-06-29,Canaccord Genuity,Buy,Hold,up
+2017-02-15,Dougherty,Buy,Neutral,up
+2017-06-06,Longbow Research,Buy,,up
+2017-07-18,Canaccord Genuity,Hold,Buy,down
+2017-08-02,Canaccord Genuity,Hold,,main
+2018-02-20,Canaccord Genuity,Hold,Hold,main
+2018-04-18,Bernstein,Outperform,,init
+2018-08-01,Stifel Nicolaus,Buy,Buy,main
+2018-09-21,Raymond James,Strong Buy,Market Perform,up
+2018-09-28,Longbow Research,Neutral,Buy,down
+2018-10-08,Stifel Nicolaus,Buy,Buy,main
+2018-11-30,Susquehanna,Neutral,,init
+2019-02-13,Canaccord Genuity,Hold,Hold,main
+2019-04-22,Bank of America,Buy,Neutral,up
+2019-05-01,Benchmark,Hold,Buy,down
+2019-05-01,Canaccord Genuity,Hold,Hold,main
+2019-07-31,Raymond James,Strong Buy,,main
+2019-10-14,Needham,Hold,Buy,down
+2019-10-30,Citigroup,Buy,,main
+2019-12-20,PiperJaffray,Neutral,,init
+2020-01-29,Stifel Nicolaus,Hold,Buy,down
+2020-02-14,Citigroup,Buy,,main
+2020-05-26,Raymond James,Outperform,Strong Buy,down
+2020-06-10,B of A Securities,Buy,,main
+2020-08-05,Raymond James,Outperform,,main
+2020-08-05,Canaccord Genuity,Hold,,main
+2020-11-02,Stifel,Hold,,main
+2020-11-02,Canaccord Genuity,Hold,,main
+2020-11-03,Northcoast Research,Buy,Neutral,up
+2020-11-03,Raymond James,Market Perform,Outperform,down
+2021-01-19,Needham,Buy,Hold,up
+2021-02-17,DA Davidson,Buy,,main
+2021-02-22,Canaccord Genuity,Hold,,main
+2021-05-05,Needham,Buy,,main
+2021-05-05,Benchmark,Buy,Hold,up
+2021-06-30,Benchmark,Buy,,main
+2021-08-06,Citigroup,Neutral,Buy,down
+2021-10-11,B of A Securities,Neutral,Buy,down
+2021-11-04,B of A Securities,Underperform,Neutral,down
+2021-11-11,Bernstein,Market Perform,Outperform,down
+2022-02-16,Stifel,Buy,Hold,up
+2022-02-16,Needham,Buy,,main
+2022-03-03,Needham,Hold,Buy,down
+2022-03-14,Raymond James,Underperform,Market Perform,down
+2022-05-04,Benchmark,Buy,,main

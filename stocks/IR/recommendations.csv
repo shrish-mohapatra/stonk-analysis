@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action
+2020-03-04,Morgan Stanley,Overweight,,main
+2020-03-06,Morgan Stanley,Overweight,,main
+2020-03-17,Morgan Stanley,Overweight,,main
+2020-03-23,Morgan Stanley,Overweight,,main
+2020-04-14,Stifel,Hold,,main
+2020-04-15,Morgan Stanley,Overweight,,main
+2020-05-08,UBS,Neutral,,main
+2020-05-13,Deutsche Bank,Hold,Buy,down
+2020-05-13,Credit Suisse,Neutral,,main
+2020-05-13,Baird,Outperform,,main
+2020-05-13,Morgan Stanley,Overweight,,main
+2020-08-05,Deutsche Bank,Hold,,main
+2020-08-06,Citigroup,Neutral,,main
+2020-08-07,Morgan Stanley,Overweight,,main
+2020-09-24,Jefferies,Buy,,init
+2020-11-04,Morgan Stanley,Overweight,,main
+2020-11-04,Deutsche Bank,Hold,,main
+2020-11-23,Morgan Stanley,Overweight,,main
+2020-11-24,Morgan Stanley,Overweight,,main
+2020-12-15,Morgan Stanley,Overweight,,main
+2021-01-15,UBS,Buy,Neutral,up
+2021-01-20,Morgan Stanley,Overweight,,main
+2021-02-24,Morgan Stanley,Overweight,,main
+2021-02-24,Credit Suisse,Neutral,,main
+2021-04-12,Morgan Stanley,Overweight,,main
+2021-04-30,Morgan Stanley,Overweight,,main
+2021-05-19,Morgan Stanley,Overweight,,main
+2021-05-20,Deutsche Bank,Buy,Hold,up
+2021-06-14,Credit Suisse,Neutral,,main
+2021-06-17,Vertical Research,Buy,Hold,up
+2021-07-06,Goldman Sachs,Buy,Neutral,up
+2021-07-12,Wolfe Research,Outperform,Peer Perform,up
+2021-07-30,Credit Suisse,Neutral,,main
+2021-10-08,Wells Fargo,Equal-Weight,,init
+2021-11-05,Barclays,Overweight,,main
+2021-11-08,Credit Suisse,Neutral,,main
+2021-11-19,Wells Fargo,Overweight,Equal-Weight,up
+2021-11-19,Credit Suisse,Neutral,,main
+2021-12-06,Barclays,Overweight,,main
+2021-12-15,Morgan Stanley,Overweight,,main
+2022-01-04,Barclays,Overweight,,main
+2022-02-25,Morgan Stanley,Overweight,,main
+2022-02-25,Credit Suisse,Neutral,,main
+2022-02-25,Deutsche Bank,Buy,,main
+2022-04-04,Barclays,Overweight,,main
+2022-04-06,Wolfe Research,Peer Perform,Outperform,down
+2022-04-14,Deutsche Bank,Buy,,main
+2022-04-18,Stifel,Hold,,main
+2022-05-06,Credit Suisse,Neutral,,main

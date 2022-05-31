@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action
+2021-10-08,Wells Fargo,Equal-Weight,,init
+2021-10-27,Credit Suisse,Neutral,,main
+2021-11-10,Deutsche Bank,Buy,Hold,up
+2021-11-10,Wells Fargo,Equal-Weight,,main
+2021-11-10,RBC Capital,Outperform,,main
+2021-11-23,Jefferies,Hold,,init
+2021-12-06,Barclays,Overweight,,main
+2022-01-04,Credit Suisse,Outperform,Neutral,up
+2022-01-11,Bernstein,Outperform,,init
+2022-01-26,RBC Capital,Outperform,,main
+2022-01-26,Wells Fargo,Equal-Weight,,main
+2022-01-27,Barclays,Overweight,,main
+2022-01-27,Deutsche Bank,Buy,,main
+2022-02-01,Morgan Stanley,Overweight,,main
+2022-03-07,Credit Suisse,Outperform,,main
+2022-03-11,RBC Capital,Outperform,,main
+2022-03-29,Barclays,Overweight,,main
+2022-04-14,Deutsche Bank,Buy,,main
+2022-04-27,Credit Suisse,Outperform,,main
+2022-04-27,Deutsche Bank,Buy,,main
+2022-04-29,Morgan Stanley,Overweight,,main
+2022-05-11,Wolfe Research,Outperform,,main

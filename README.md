@@ -1,0 +1,1 @@
+Super cracked python module to retrieve stock information from Yahoo Finance [https://github.com/ranaroussi/yfinance].

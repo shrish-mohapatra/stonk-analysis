@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-15,Feltl & Co.,Hold,,init
+2012-04-20,Bank oferica,Buy,,main
+2012-04-23,Feltl & Co.,Hold,,main
+2012-08-28,Canaccord Genuity,Hold,,init
+2012-11-08,Stifel Nicolaus,Hold,,init
+2013-01-29,Canaccord Genuity,Hold,,main
+2013-04-23,Canaccord Genuity,Hold,,main
+2014-01-30,Feltl & Co.,Sell,Hold,down
+2014-06-24,Canaccord Genuity,Buy,Hold,up
+2014-10-27,Stifel Nicolaus,Buy,,main
+2014-10-28,Canaccord Genuity,Buy,,main
+2015-01-16,Stifel Nicolaus,Buy,,main
+2015-04-29,Stifel Nicolaus,Buy,,main
+2015-04-29,Canaccord Genuity,Buy,,main
+2015-07-23,Feltl & Co.,Hold,Sell,up
+2015-08-28,Raymond James,Market Perform,Outperform,down
+2016-02-03,Credit Suisse,Outperform,,init
+2016-03-21,Stifel Nicolaus,Buy,,main
+2016-04-01,CL King,Neutral,,init
+2016-04-13,Credit Suisse,Outperform,,main
+2017-06-01,Aegis Capital,Sell,,init
+2017-08-23,Bank of America,Buy,Neutral,up
+2018-01-16,PiperJaffray,Overweight,,init
+2018-02-02,Bank of America,Buy,Buy,main
+2018-05-07,Stifel Nicolaus,Buy,Buy,main
+2018-06-01,Credit Suisse,Outperform,Outperform,main
+2018-06-21,Credit Suisse,Outperform,Outperform,main
+2018-07-10,Stifel Nicolaus,Buy,Buy,main
+2018-08-17,Credit Suisse,Outperform,Outperform,main
+2018-11-02,Bank of America,Buy,Buy,main
+2018-11-05,Canaccord Genuity,Buy,Buy,main
+2019-05-02,Canaccord Genuity,Buy,Buy,main
+2019-05-23,Guggenheim,Buy,,init
+2019-07-22,Stifel Nicolaus,Buy,,main
+2019-08-16,Credit Suisse,Outperform,,main
+2019-09-09,Goldman Sachs,Neutral,,init
+2020-05-01,Stifel,Buy,,main
+2020-07-20,B of A Securities,Buy,,main
+2020-07-30,Stifel,Buy,,main
+2020-08-17,Credit Suisse,Outperform,,main
+2021-01-29,JP Morgan,Overweight,,init
+2021-02-17,Barclays,Overweight,,init
+2021-07-12,Guggenheim,Neutral,Buy,down
+2021-08-02,Barclays,Overweight,,main
+2021-08-03,Goldman Sachs,Neutral,,main
+2021-08-13,Credit Suisse,Outperform,,main
+2021-11-18,Morgan Stanley,Overweight,,init
+2022-02-08,Atlantic Equities,Overweight,,init
+2022-05-05,B of A Securities,Neutral,Buy,down
+2022-05-05,Morgan Stanley,Overweight,,main

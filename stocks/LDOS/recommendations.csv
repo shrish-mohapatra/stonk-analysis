@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action
+2013-12-11,Credit Suisse,Underperform,,main
+2014-03-31,JP Morgan,Neutral,,main
+2014-06-05,JP Morgan,Neutral,,main
+2014-09-15,Credit Suisse,Underperform,,main
+2014-10-07,Credit Suisse,Neutral,Underperform,up
+2014-12-08,Jefferies,Hold,,main
+2014-12-09,Drexel Hamilton,Hold,,init
+2014-12-12,Citigroup,Buy,,init
+2015-01-08,JP Morgan,Underweight,Neutral,down
+2015-01-28,Wells Fargo,Market Perform,Underperform,up
+2015-03-26,Citigroup,Buy,,main
+2015-03-26,Credit Suisse,Neutral,,main
+2015-03-30,Jefferies,Hold,,main
+2015-05-13,Citigroup,Buy,,main
+2015-07-28,BB&T Capital,Hold,,init
+2015-10-29,BB&T Capital,Buy,Hold,up
+2015-11-02,Drexel Hamilton,Buy,Hold,up
+2016-02-23,Deutsche Bank,Hold,,main
+2016-08-02,Credit Suisse,Neutral,,main
+2016-09-07,Citigroup,Buy,,main
+2016-09-07,Argus,Buy,,init
+2016-11-21,Credit Suisse,Outperform,Neutral,up
+2016-12-06,Oppenheimer,Outperform,,init
+2016-12-14,Goldman Sachs,Neutral,,init
+2017-03-17,Vertical Research,Buy,,init
+2017-08-10,Goldman Sachs,Buy,Neutral,up
+2017-08-31,Argus,Buy,,main
+2017-10-25,Wells Fargo,Outperform,Market Perform,up
+2017-11-03,Citigroup,Buy,,main
+2018-02-23,Credit Suisse,Outperform,Outperform,main
+2018-02-26,Citigroup,Buy,Buy,main
+2018-06-18,Goldman Sachs,Neutral,Buy,down
+2018-10-29,Argus,Buy,Buy,main
+2019-06-03,Morgan Stanley,Equal-Weight,,init
+2019-07-09,Citi,Neutral,Buy,down
+2019-08-21,Morgan Stanley,Equal-Weight,,main
+2019-09-20,Barclays,Equal-Weight,,init
+2019-09-24,JP Morgan,Neutral,,init
+2019-10-10,Morgan Stanley,Equal-Weight,,main
+2019-12-18,Wells Fargo,Overweight,,main
+2019-12-18,Credit Suisse,Outperform,,main
+2019-12-18,SunTrust Robinson Humphrey,Buy,,main
+2019-12-23,Morgan Stanley,Equal-Weight,,main
+2020-01-09,Wells Fargo,Equal-Weight,Overweight,down
+2020-02-06,Wells Fargo,Equal-Weight,,main
+2020-02-19,SunTrust Robinson Humphrey,Buy,,main
+2020-02-26,JP Morgan,Neutral,,main
+2020-03-02,Stifel Nicolaus,Buy,Hold,up
+2020-03-03,Wells Fargo,Overweight,Equal-Weight,up
+2020-03-24,Morgan Stanley,Equal-Weight,,main
+2020-03-31,William Blair,Outperform,,init
+2020-04-02,Wells Fargo,Overweight,,main
+2020-04-14,Morgan Stanley,Equal-Weight,,main
+2020-04-14,SunTrust Robinson Humphrey,Buy,,main
+2020-05-04,Wells Fargo,Overweight,,main
+2020-05-06,JP Morgan,Neutral,,main
+2020-05-11,Jefferies,Buy,,main
+2020-06-11,Baird,Outperform,,init
+2020-09-22,JP Morgan,Overweight,Neutral,up
+2020-09-23,Barclays,Overweight,Equal-Weight,up
+2020-11-03,Credit Suisse,Outperform,,main
+2021-02-24,Credit Suisse,Outperform,,main
+2021-03-03,B of A Securities,Buy,,main
+2021-03-10,Morgan Stanley,Equal-Weight,,main
+2021-04-05,Goldman Sachs,Buy,Neutral,up
+2021-05-13,Wells Fargo,Overweight,,init
+2021-06-02,Argus Research,Buy,,main
+2021-06-11,Morgan Stanley,Equal-Weight,,main
+2021-08-04,Baird,Outperform,,main
+2021-08-20,Argus Research,Hold,Buy,down
+2021-11-03,Wells Fargo,Overweight,,main
+2022-01-24,Barclays,Overweight,,main
+2022-03-01,Goldman Sachs,Buy,,main
+2022-03-18,Morgan Stanley,Equal-Weight,,main
+2022-03-24,Wells Fargo,Equal-Weight,Overweight,down
+2022-04-14,Goldman Sachs,Buy,,main
+2022-05-04,Wells Fargo,Equal-Weight,,main

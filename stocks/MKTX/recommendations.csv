@@ -1,0 +1,135 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-24,Stifel Nicolaus,Hold,,init
+2012-04-13,Keefe Bruyette & Woods,Outperform,,up
+2012-06-05,Stifel Nicolaus,Buy,,main
+2012-09-06,Stifel Nicolaus,Hold,Buy,down
+2012-09-26,Credit Suisse,Underperform,Neutral,down
+2012-10-05,BMO Capital,Market Perform,,init
+2012-12-06,BMO Capital,Market Perform,,main
+2013-01-10,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2013-03-05,BMO Capital,Market Perform,,main
+2013-03-07,Sandler O'Neill,Hold,,init
+2013-04-15,Raymond James,Strong Buy,Market Perform,up
+2013-07-24,Credit Suisse,Underperform,,main
+2013-07-26,Raymond James,Market Perform,Strong Buy,down
+2014-05-13,Credit Suisse,Underperform,,main
+2014-07-24,Raymond James,Outperform,Market Perform,up
+2014-09-18,Keefe Bruyette & Woods,Market Perform,,main
+2014-10-09,Keefe Bruyette & Woods,Market Perform,,main
+2014-12-04,Keefe Bruyette & Woods,Market Perform,,main
+2015-01-06,Credit Suisse,Underperform,,main
+2015-01-29,Keefe Bruyette & Woods,Market Perform,,main
+2015-03-18,Keefe Bruyette & Woods,Market Perform,,main
+2015-03-23,Raymond James,Market Perform,Outperform,down
+2015-03-23,Raymond James,Market Perform,Outperform,down
+2015-04-14,Keefe Bruyette & Woods,Market Perform,,main
+2015-06-29,Macquarie,Underperform,Neutral,down
+2015-09-09,Keefe Bruyette & Woods,Market Perform,,main
+2015-10-08,Keefe Bruyette & Woods,Market Perform,,main
+2015-10-22,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2015-10-26,Raymond James,Outperform,Market Perform,up
+2016-01-28,Macquarie,Underperform,,main
+2016-04-08,Keefe Bruyette & Woods,Outperform,,main
+2016-06-20,William Blair,Market Perform,,init
+2016-07-15,Raymond James,Market Perform,Outperform,down
+2016-07-29,Keefe Bruyette & Woods,Outperform,,main
+2016-10-03,Macquarie,Underperform,,main
+2017-01-03,Raymond James,Outperform,Market Perform,up
+2017-01-06,Goldman Sachs,Buy,,init
+2017-01-25,Credit Suisse,Neutral,Underperform,up
+2017-01-31,Macquarie,Neutral,Underperform,up
+2017-07-27,Raymond James,Outperform,,main
+2017-12-14,Rosenblatt,Neutral,,init
+2018-01-08,Goldman Sachs,Neutral,Buy,down
+2018-01-22,Raymond James,Market Perform,Outperform,down
+2018-04-12,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2018-07-24,Compass Point,Neutral,,init
+2018-08-01,Jefferies,Hold,,init
+2018-09-07,Barclays,Equal-Weight,,init
+2019-01-10,Buckingham,Neutral,,init
+2019-04-25,Barclays,Equal-Weight,Equal-Weight,main
+2019-06-05,Buckingham Research,Neutral,,main
+2019-06-12,Buckingham Research,Underperform,Neutral,down
+2019-06-28,Barclays,Equal-Weight,,main
+2019-08-14,Deutsche Bank,Hold,,main
+2019-08-29,Argus Research,Hold,,init
+2019-10-03,Buckingham,Underperform,,main
+2019-10-24,Deutsche Bank,Hold,,main
+2019-10-24,Buckingham,Underperform,,main
+2019-11-27,Deutsche Bank,Hold,,main
+2019-12-16,Credit Suisse,Neutral,,init
+2019-12-19,Deutsche Bank,Hold,,main
+2020-01-13,Barclays,Equal-Weight,,main
+2020-01-30,Deutsche Bank,Hold,,reit
+2020-03-05,Deutsche Bank,Hold,,main
+2020-03-13,Raymond James,Outperform,Market Perform,up
+2020-03-18,Deutsche Bank,Hold,,main
+2020-03-23,Barclays,Overweight,Equal-Weight,up
+2020-03-24,Goldman Sachs,Neutral,Sell,up
+2020-03-31,Deutsche Bank,Hold,,main
+2020-04-09,Deutsche Bank,Hold,,main
+2020-05-15,Deutsche Bank,Hold,,main
+2020-06-03,Rosenblatt,Neutral,,main
+2020-06-09,Credit Suisse,Neutral,,main
+2020-07-09,Deutsche Bank,Hold,,main
+2020-07-23,Piper Sandler,Neutral,,main
+2020-09-10,Credit Suisse,Neutral,,main
+2020-10-06,Rosenblatt,Neutral,,main
+2020-10-28,Rosenblatt,Neutral,,main
+2020-11-06,Rosenblatt,Neutral,,main
+2020-12-03,Rosenblatt,Neutral,,main
+2020-12-21,Morgan Stanley,Equal-Weight,,init
+2021-01-06,Rosenblatt,Neutral,,main
+2021-01-11,Morgan Stanley,Equal-Weight,,main
+2021-01-19,Rosenblatt,Buy,Neutral,up
+2021-02-01,Morgan Stanley,Equal-Weight,,main
+2021-02-01,Rosenblatt,Buy,,main
+2021-02-03,Rosenblatt,Buy,,main
+2021-03-31,Morgan Stanley,Equal-Weight,,main
+2021-04-06,Piper Sandler,Neutral,,main
+2021-04-06,Raymond James,Outperform,,main
+2021-04-09,Deutsche Bank,Hold,,main
+2021-04-12,Morgan Stanley,Equal-Weight,,main
+2021-04-23,Deutsche Bank,Hold,,main
+2021-04-23,Rosenblatt,Buy,,main
+2021-04-26,Morgan Stanley,Equal-Weight,,main
+2021-06-03,Piper Sandler,Neutral,,main
+2021-06-03,Rosenblatt,Buy,,main
+2021-06-07,Morgan Stanley,Equal-Weight,,main
+2021-07-07,Piper Sandler,Neutral,,main
+2021-07-07,Raymond James,Outperform,,main
+2021-07-13,Morgan Stanley,Equal-Weight,,main
+2021-07-19,Morgan Stanley,Equal-Weight,,main
+2021-07-22,Deutsche Bank,Hold,,main
+2021-07-22,Morgan Stanley,Equal-Weight,,main
+2021-09-15,Morgan Stanley,Equal-Weight,,main
+2021-10-06,Raymond James,Outperform,,main
+2021-10-08,Morgan Stanley,Equal-Weight,,main
+2021-10-21,Rosenblatt,Buy,,main
+2021-10-21,Morgan Stanley,Equal-Weight,,main
+2021-11-04,Raymond James,Outperform,,main
+2021-12-07,Rosenblatt,Buy,,main
+2022-01-05,Morgan Stanley,Equal-Weight,,main
+2022-01-06,Rosenblatt,Buy,,main
+2022-01-06,Raymond James,Outperform,,main
+2022-01-14,Morgan Stanley,Equal-Weight,,main
+2022-01-19,Morgan Stanley,Equal-Weight,,main
+2022-01-20,Rosenblatt,Buy,,main
+2022-01-27,Compass Point,Sell,Neutral,down
+2022-01-27,Deutsche Bank,Hold,,main
+2022-01-27,Rosenblatt,Buy,,main
+2022-02-08,Atlantic Equities,Neutral,,init
+2022-02-10,Morgan Stanley,Equal-Weight,,main
+2022-02-15,Credit Suisse,Neutral,,init
+2022-02-18,Deutsche Bank,Hold,,main
+2022-03-08,Rosenblatt,Buy,,main
+2022-04-04,Morgan Stanley,Equal-Weight,,main
+2022-04-06,Raymond James,Market Perform,Outperform,down
+2022-04-06,Credit Suisse,Neutral,,main
+2022-04-13,Morgan Stanley,Equal-Weight,,main
+2022-04-14,Rosenblatt,Buy,,main
+2022-04-21,Compass Point,Neutral,Sell,up
+2022-04-21,Deutsche Bank,Hold,,main
+2022-04-21,Morgan Stanley,Equal-Weight,,main
+2022-04-21,Rosenblatt,Buy,,main
+2022-04-25,Credit Suisse,Neutral,,main

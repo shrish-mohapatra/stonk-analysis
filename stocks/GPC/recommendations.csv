@@ -1,0 +1,67 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-22,Gabelli & Co.,Hold,,down
+2012-04-26,JP Morgan,Neutral,,main
+2012-05-25,Wunderlich,Hold,,init
+2012-09-04,Goldman Sachs,Sell,,main
+2012-10-19,Goldman Sachs,Sell,,main
+2012-11-27,SunTrust Robinson Humphrey,Buy,Neutral,up
+2013-02-14,Wunderlich,Hold,,main
+2013-02-15,Goldman Sachs,Sell,,main
+2013-02-20,Goldman Sachs,Sell,,main
+2013-04-19,Bank of America,Underperform,,main
+2013-04-22,Goldman Sachs,Sell,,main
+2013-06-12,Bank of America,Neutral,Underperform,up
+2013-07-17,Wunderlich,Hold,,main
+2013-07-19,BB&T Capital,Hold,Buy,down
+2013-10-14,Wedbush,Neutral,,init
+2014-04-16,Goldman Sachs,Neutral,Sell,up
+2014-08-27,SunTrust Robinson Humphrey,Neutral,Buy,down
+2014-08-28,RBC Capital,Sector Perform,,main
+2014-08-28,SunTrust Robinson Humphrey,Neutral,Buy,down
+2014-11-14,Sterne Agee,Neutral,,init
+2015-01-06,Bank of America,Underperform,Neutral,down
+2015-01-14,JP Morgan,Overweight,,main
+2015-02-18,JP Morgan,Overweight,,main
+2015-05-04,Sterne Agee CRT,Buy,Neutral,up
+2015-06-04,Wedbush,Outperform,Neutral,up
+2015-06-18,Argus,Buy,Hold,up
+2015-07-21,JP Morgan,Overweight,,main
+2015-09-15,Jefferies,Buy,,init
+2015-09-30,Goldman Sachs,Sell,Neutral,down
+2015-10-20,JP Morgan,Overweight,,main
+2016-02-01,JP Morgan,Neutral,Overweight,down
+2016-02-17,Wedbush,Neutral,Outperform,down
+2016-07-14,Gabelli & Co.,Hold,Buy,down
+2016-07-15,Jefferies,Hold,Buy,down
+2016-08-25,Susquehanna,Neutral,,init
+2016-12-14,Atlantic Equities,Neutral,,init
+2017-01-19,Goldman Sachs,Neutral,Sell,up
+2017-07-21,Gabelli & Co.,Buy,Hold,up
+2017-12-04,Moffett Nathanson,Sell,,init
+2018-02-21,JP Morgan,Neutral,Neutral,main
+2018-02-21,Bank of America,Underperform,Underperform,main
+2018-04-13,Bank of America,Neutral,Underperform,up
+2018-04-17,Guggenheim,Neutral,,init
+2018-07-20,Wedbush,Neutral,Neutral,main
+2018-10-30,Bank of America,Underperform,Neutral,down
+2019-03-20,Evercore ISI Group,In-Line,,init
+2019-05-31,Stephens & Co.,Overweight,,init
+2019-07-11,Goldman Sachs,Neutral,,init
+2019-09-12,Bank of America,Neutral,,main
+2019-10-08,Raymond James,Market Perform,,init
+2019-10-25,Goldman Sachs,Sell,Neutral,down
+2020-02-21,Stephens & Co.,Overweight,,main
+2020-04-08,B of A Securities,Buy,Neutral,up
+2020-04-20,B of A Securities,Buy,,main
+2020-05-05,JP Morgan,Neutral,,main
+2020-05-06,CFRA,Hold,,main
+2020-07-28,RBC Capital,Sector Perform,,main
+2020-09-14,JP Morgan,Overweight,Neutral,up
+2020-12-02,Bank of America,Underperform,Buy,down
+2021-02-18,RBC Capital,Sector Perform,,main
+2021-04-23,RBC Capital,Sector Perform,,main
+2021-04-26,JP Morgan,Overweight,,main
+2021-05-04,Goldman Sachs,Neutral,Sell,up
+2021-10-22,Stephens & Co.,Equal-Weight,,main
+2022-01-13,Truist Securities,Hold,,init
+2022-05-10,B of A Securities,Neutral,Underperform,up

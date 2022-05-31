@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-23,Wedbush,Outperform,,main
+2012-04-23,Jefferies,Buy,,main
+2012-04-23,Sterne Agee,Buy,,main
+2012-06-21,BMO Capital,Market Perform,,init
+2012-07-19,Wedbush,Neutral,Outperform,down
+2012-07-19,Sterne Agee,Neutral,Buy,down
+2012-10-18,Jefferies,Buy,,main
+2012-10-18,Sidoti & Co.,Neutral,Buy,down
+2013-01-03,Janney Capital,Neutral,Buy,down
+2013-01-25,Jefferies,Buy,,main
+2013-03-20,Jefferies,Buy,,main
+2013-04-24,Janney Capital,Buy,Neutral,up
+2013-04-24,Jefferies,Buy,,main
+2013-05-20,Jefferies,Buy,,main
+2013-07-01,Goldman Sachs,Neutral,,init
+2014-02-19,FBR Capital,Outperform,,init
+2014-04-11,Baird,Outperform,Neutral,up
+2014-04-23,BMO Capital,Outperform,Market Perform,up
+2014-04-23,Wedbush,Outperform,Neutral,up
+2014-04-23,Sterne Agee,Buy,Neutral,up
+2014-07-08,Northland Securities,Outperform,,init
+2014-12-12,Stifel Nicolaus,Hold,,init
+2015-01-05,Northland,Market Perform,Outperform,down
+2015-01-28,Boenning & Scattergood,Outperform,,init
+2015-01-28,Wedbush,Neutral,Outperform,down
+2015-01-28,Jefferies,Buy,,main
+2015-03-17,KeyBanc,Overweight,,main
+2015-04-02,Oppenheimer,Perform,,init
+2015-04-27,Jefferies,Buy,,main
+2015-05-13,Gabelli & Co.,Hold,,init
+2015-09-22,BB&T Capital,Buy,,init
+2015-11-03,SunTrust Robinson Humphrey,Buy,,init
+2016-01-08,Maxim Group,Hold,Buy,down
+2016-03-08,Northland Securities,Buy,,init
+2016-04-05,BMO Capital,Outperform,,init
+2016-04-08,KeyBanc,Overweight,,main
+2016-06-17,Longbow Research,Neutral,,init
+2016-07-14,SunTrust Robinson Humphrey,Buy,,main
+2016-09-23,Jefferies,Buy,,main
+2017-04-28,KeyBanc,Sector Weight,Overweight,down
+2017-10-25,Boenning & Scattergood,Neutral,Outperform,down
+2018-04-04,Goldman Sachs,Buy,Neutral,up
+2018-04-12,DA Davidson,Buy,,init
+2018-04-26,DA Davidson,Buy,Buy,main
+2018-04-27,Stifel Nicolaus,Hold,Hold,main
+2018-10-10,Baird,Outperform,Outperform,main
+2018-10-31,BMO Capital,Outperform,Outperform,main
+2018-11-20,Stephens & Co.,Equal-Weight,,init
+2018-11-27,KeyBanc,Overweight,Sector Weight,up
+2019-01-30,BMO Capital,Market Perform,Outperform,down
+2019-03-12,KeyBanc,Overweight,Overweight,main
+2019-04-10,Baird,Outperform,Outperform,main
+2019-05-01,Boenning & Scattergood,Neutral,Outperform,down
+2019-12-06,Goldman Sachs,Sell,,init
+2019-12-09,KeyBanc,Sector Weight,Overweight,down
+2020-01-29,Baird,Outperform,,main
+2020-02-26,Baird,Neutral,Outperform,down
+2020-02-26,Stephens & Co.,Equal-Weight,,main
+2020-04-03,Stifel,Buy,,init
+2020-05-06,CFRA,Strong Sell,,main
+2020-05-06,Baird,Neutral,,main
+2020-05-07,Rosenblatt,Neutral,,main
+2020-05-15,Rosenblatt,Neutral,,main
+2020-05-29,UBS,Buy,,init
+2020-06-17,Baird,Neutral,,main
+2020-06-24,Rosenblatt,Neutral,,main
+2020-08-03,Rosenblatt,Neutral,,main
+2020-09-17,Rosenblatt,Buy,Neutral,up
+2020-10-13,UBS,Neutral,Buy,down
+2020-10-30,Rosenblatt,Buy,,main
+2021-02-01,Rosenblatt,Buy,,main
+2021-04-05,Stifel,Hold,Buy,down
+2021-04-30,Goldman Sachs,Sell,,main
+2021-05-03,Rosenblatt,Buy,,main
+2021-07-16,Rosenblatt,Buy,,main
+2021-10-05,Baird,Outperform,Neutral,up
+2022-04-18,Stifel,Hold,,main

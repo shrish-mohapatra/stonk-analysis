@@ -1,0 +1,69 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-15,Wunderlich,Buy,,main
+2012-05-07,Ladenburg Thalmann,Neutral,,down
+2012-05-07,Wunderlich,Hold,,down
+2012-05-07,Bank oferica,Neutral,,main
+2012-05-14,Baird,Outperform,,up
+2012-08-06,Wunderlich,Hold,,main
+2012-08-06,DA Davidson,Buy,,main
+2012-08-07,Bank of America,Neutral,,main
+2012-10-19,Wunderlich,Buy,Hold,up
+2013-01-02,Wells Fargo,Market Perform,Outperform,down
+2013-02-14,DA Davidson,Buy,,main
+2013-04-12,DA Davidson,Buy,,main
+2013-05-02,Wunderlich,Buy,,main
+2013-08-05,DA Davidson,Buy,,main
+2013-09-05,KeyBanc,Hold,Underweight,up
+2013-10-17,Wunderlich,Buy,,main
+2013-11-12,Macquarie,Outperform,,main
+2014-01-06,Barclays,Equal-Weight,Overweight,down
+2014-02-26,Wunderlich,Buy,,main
+2014-03-26,Wunderlich,Buy,,main
+2014-04-10,Wunderlich,Buy,,main
+2014-05-05,Barclays,Equal-Weight,,main
+2015-03-25,Baird,Outperform,Neutral,up
+2015-05-04,Wunderlich,Hold,,main
+2015-08-17,Barclays,Equal-Weight,,main
+2015-11-16,Wells Fargo,Outperform,Market Perform,up
+2015-12-17,Barclays,Overweight,Equal-Weight,up
+2016-01-04,Barclays,Overweight,,main
+2016-03-18,Barclays,Overweight,,main
+2016-03-21,Argus,Buy,,main
+2016-06-10,Barclays,Equal-Weight,Overweight,down
+2016-08-25,Argus,Buy,,main
+2016-11-04,Guggenheim,Neutral,,init
+2017-01-24,Macquarie,Neutral,Outperform,down
+2017-03-16,UBS,Neutral,,init
+2017-05-26,Jefferies,Hold,,init
+2017-12-18,Wells Fargo,Market Perform,Outperform,down
+2018-02-02,UBS,Neutral,,init
+2018-02-26,Wells Fargo,Market Perform,Market Perform,main
+2018-07-24,Scotia Howard Weil,Sector Perform,,init
+2018-08-10,UBS,Neutral,Neutral,main
+2018-09-17,Wells Fargo,Market Perform,Market Perform,main
+2018-10-09,Mizuho,Neutral,,init
+2018-11-08,Wells Fargo,Market Perform,Market Perform,main
+2018-11-21,Bank of America,Underperform,Neutral,down
+2019-01-18,Barclays,Equal-Weight,,init
+2019-01-30,Wells Fargo,Outperform,Market Perform,up
+2019-02-25,Wells Fargo,Outperform,Outperform,main
+2019-06-26,Bank of America,Buy,Neutral,up
+2019-09-06,UBS,Neutral,,main
+2019-11-21,Barclays,Overweight,Equal-Weight,up
+2019-12-20,ScotiaBank,Sector Outperform,Sector Perform,up
+2020-01-10,UBS,Neutral,,main
+2020-03-03,Mizuho,Neutral,,main
+2020-03-16,Guggenheim,Buy,Neutral,up
+2020-03-26,Barclays,Overweight,,main
+2020-05-13,Wells Fargo,Overweight,,main
+2020-08-11,UBS,Neutral,,main
+2020-09-21,Barclays,Equal-Weight,Overweight,down
+2020-12-22,BMO Capital,Market Perform,,init
+2021-05-18,Mizuho,Buy,Neutral,up
+2021-07-06,Scotiabank,Sector Perform,Sector Outperform,down
+2021-07-09,B of A Securities,Neutral,Buy,down
+2021-08-17,Wells Fargo,Equal-Weight,Overweight,down
+2021-09-07,Guggenheim,Neutral,Buy,down
+2022-01-19,B of A Securities,Underperform,Neutral,down
+2022-02-22,Wells Fargo,Equal-Weight,,main
+2022-05-02,Wells Fargo,Equal-Weight,,main

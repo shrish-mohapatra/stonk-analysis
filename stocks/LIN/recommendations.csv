@@ -1,0 +1,76 @@
+Date,Firm,To Grade,From Grade,Action
+2014-01-03,Wedbush,Outperform,,init
+2014-01-15,Evercore Partners,Equal-Weight,,init
+2014-03-17,Wells Fargo,Market Perform,,down
+2014-03-24,Wedbush,Neutral,Outperform,down
+2014-03-24,Gabelli & Co.,Hold,Buy,down
+2014-06-03,Evercore Partners,Overweight,Equal-weight,up
+2014-08-25,Evercore Partners,Equal-Weight,Overweight,down
+2019-01-14,KeyBanc,Overweight,,init
+2019-01-15,SunTrust Robinson Humphrey,Buy,,init
+2019-03-22,Argus,Hold,,init
+2019-04-03,KeyBanc,Overweight,Overweight,main
+2019-05-13,BMO Capital,Outperform,Market Perform,up
+2019-05-14,Barclays,Equal-Weight,,main
+2019-07-09,KeyBanc,Overweight,,main
+2019-08-06,Bank of America,Underperform,,reit
+2019-08-06,JP Morgan,Overweight,,main
+2019-08-06,Deutsche Bank,Buy,,main
+2019-10-16,Wells Fargo,Outperform,,init
+2019-11-13,JP Morgan,Overweight,,main
+2019-11-13,Barclays,Equal-Weight,,main
+2019-11-13,Deutsche Bank,Buy,,main
+2019-11-13,Wells Fargo,Outperform,,main
+2019-11-14,Citigroup,Buy,,main
+2019-11-18,Atlantic Equities,Overweight,,init
+2019-12-02,BMO Capital,Outperform,,main
+2019-12-17,UBS,Buy,,main
+2020-02-03,Goldman Sachs,Neutral,,init
+2020-02-10,Morgan Stanley,Overweight,,init
+2020-02-13,CFRA,Buy,Hold,up
+2020-02-14,Deutsche Bank,Buy,,main
+2020-02-14,Wells Fargo,Overweight,,main
+2020-02-18,SunTrust Robinson Humphrey,Buy,,main
+2020-03-30,Goldman Sachs,Buy,Neutral,up
+2020-03-30,Morgan Stanley,Overweight,,main
+2020-04-09,JP Morgan,Neutral,Overweight,down
+2020-04-09,Citigroup,Buy,,main
+2020-04-14,BMO Capital,Outperform,,main
+2020-04-15,Bernstein,Market Perform,Underperform,up
+2020-04-29,Barclays,Equal-Weight,,main
+2020-05-07,CFRA,Buy,,main
+2020-05-12,Citigroup,Buy,,main
+2020-05-12,BMO Capital,Outperform,,main
+2020-05-18,UBS,Buy,,main
+2020-06-16,HSBC,Hold,Buy,down
+2020-07-28,Morgan Stanley,Overweight,,main
+2020-07-31,JP Morgan,Overweight,Neutral,up
+2020-08-03,Jefferies,Buy,,main
+2020-09-22,Evercore ISI Group,Outperform,,init
+2020-11-06,BMO Capital,Outperform,,main
+2020-11-09,Morgan Stanley,Overweight,,main
+2020-11-25,HSBC,Buy,Hold,up
+2020-12-07,Barclays,Overweight,Equal-Weight,up
+2021-02-08,Morgan Stanley,Overweight,,main
+2021-02-08,Deutsche Bank,Buy,,main
+2021-02-08,Wells Fargo,Overweight,,main
+2021-03-19,Cowen & Co.,Market Perform,,init
+2021-04-06,Wells Fargo,Overweight,,main
+2021-05-10,Morgan Stanley,Overweight,,main
+2021-05-11,Wells Fargo,Overweight,,main
+2021-05-18,Vertical Research,Buy,Hold,up
+2021-06-03,HSBC,Buy,,main
+2021-06-10,Wolfe Research,Peer Perform,,init
+2021-08-02,Deutsche Bank,Buy,,main
+2021-08-02,JP Morgan,Overweight,,main
+2021-08-03,Wells Fargo,Overweight,,main
+2021-09-17,Societe Generale,Buy,,main
+2021-10-13,Mizuho,Neutral,,init
+2021-10-29,Wells Fargo,Overweight,,main
+2021-10-29,Mizuho,Neutral,,main
+2021-12-07,Evercore ISI Group,In-Line,Outperform,down
+2021-12-09,Wolfe Research,Outperform,Peer Perform,up
+2022-01-04,Societe Generale,Buy,,main
+2022-01-11,Morgan Stanley,Overweight,,main
+2022-02-14,BMO Capital,Outperform,,main
+2022-02-18,HSBC,Buy,,main

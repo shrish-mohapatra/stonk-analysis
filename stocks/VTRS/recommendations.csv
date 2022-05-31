@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-18,Edward Jones,Sell,,init
+2020-12-14,Bernstein,Market Perform,,init
+2021-01-05,Argus Research,Hold,,init
+2021-01-25,Raymond James,Outperform,,main
+2021-02-23,Raymond James,Outperform,,main
+2021-03-02,JP Morgan,Neutral,Overweight,down
+2021-03-08,Goldman Sachs,Neutral,Buy,down
+2021-03-10,Morgan Stanley,Equal-Weight,,main
+2021-06-15,Citigroup,Neutral,,init
+2022-03-01,Raymond James,Market Perform,Outperform,down
+2022-03-01,B of A Securities,Neutral,Buy,down
+2022-03-10,Citigroup,Neutral,,main
+2022-03-16,Piper Sandler,Neutral,,main
+2022-05-10,Piper Sandler,Underweight,Neutral,down
+2022-05-12,Goldman Sachs,Neutral,,main

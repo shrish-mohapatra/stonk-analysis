@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action
+2019-07-03,Vertical Research,Buy,,init
+2019-07-10,UBS,Neutral,,main
+2019-08-01,JP Morgan,Overweight,,main
+2019-08-01,Credit Suisse,Outperform,,main
+2019-08-01,UBS,Neutral,,main
+2019-08-06,Morgan Stanley,Overweight,,init
+2019-08-08,Buckingham Research,Buy,,main
+2019-11-01,UBS,Neutral,,main
+2019-11-19,Alembic Global,Overweight,,init
+2019-12-10,Bernstein,Outperform,,init
+2020-01-15,UBS,Neutral,,main
+2020-02-04,CFRA,Buy,,main
+2020-02-05,Raymond James,Outperform,,main
+2020-02-05,Credit Suisse,Outperform,,main
+2020-02-05,Baird,Outperform,,main
+2020-02-07,Benchmark,Buy,,init
+2020-02-12,Argus Research,Buy,,main
+2020-03-24,Morgan Stanley,Overweight,,main
+2020-04-14,Morgan Stanley,Overweight,,main
+2020-04-16,B of A Securities,Buy,,init
+2020-04-16,SunTrust Robinson Humphrey,Buy,,main
+2020-04-20,Bernstein,Outperform,,main
+2020-05-06,Credit Suisse,Outperform,,main
+2020-05-13,Benchmark,Buy,,reit
+2020-05-19,Seaport Global,Buy,,init
+2020-05-21,RBC Capital,Outperform,,init
+2020-06-11,UBS,Neutral,,main
+2020-07-20,Credit Suisse,Outperform,,main
+2020-08-04,Citigroup,Buy,,main
+2020-09-08,Morgan Stanley,Overweight,,init
+2020-10-01,UBS,Buy,Neutral,up
+2020-12-15,JP Morgan,Neutral,Overweight,down
+2021-01-07,Baird,Neutral,Outperform,down
+2021-01-07,Morgan Stanley,Overweight,,main
+2021-02-01,Citigroup,Buy,,main
+2021-02-01,Credit Suisse,Outperform,,main
+2021-02-08,Morgan Stanley,Overweight,,main
+2021-04-08,Goldman Sachs,Neutral,Buy,down
+2021-04-13,Credit Suisse,Outperform,,main
+2021-04-27,Benchmark,Hold,Buy,down
+2021-05-03,Morgan Stanley,Overweight,,main
+2021-05-03,Jefferies,Buy,,main
+2021-05-13,Wells Fargo,Equal-Weight,,init
+2021-08-04,Raymond James,Outperform,,main
+2021-08-04,Susquehanna,Positive,,main
+2021-08-11,Morgan Stanley,Equal-Weight,Overweight,down
+2021-09-08,Wolfe Research,Peer Perform,,init
+2021-09-23,Goldman Sachs,Sell,Neutral,down
+2021-11-02,Wells Fargo,Equal-Weight,,main
+2021-11-04,Morgan Stanley,Equal-Weight,,main
+2021-12-14,UBS,Neutral,Buy,down
+2022-01-06,Baird,Outperform,Neutral,up
+2022-01-10,Wells Fargo,Overweight,Equal-Weight,up
+2022-01-11,Wolfe Research,Outperform,Peer Perform,up
+2022-02-01,Wells Fargo,Overweight,,main
+2022-02-01,Susquehanna,Positive,,main
+2022-02-02,Raymond James,Outperform,,main
+2022-03-02,Morgan Stanley,Equal-Weight,,main
+2022-03-07,Wells Fargo,Overweight,,main
+2022-04-29,Raymond James,Outperform,,main
+2022-05-02,Susquehanna,Positive,,main
